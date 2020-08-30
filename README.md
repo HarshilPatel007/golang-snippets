@@ -6,12 +6,12 @@ Boost your rapid development process for `Go Language. (golang)`
 ## User Guide
 
 **golang-snippets** is intentionally created to power-up your development process.
-This is a collection of **snippets** & some **ready made code examples** aiming to help you in your development journy.
+This is a collection of **snippets** & some **ready made code examples** aiming to help you in your development journey.
 
 
 |Prefix|Description|
 |--------|-----------|
-|`go-template`|`Basic go starter template`|
+|`go-template`|`Basic go starter template.`|
 |`go-:`|`Create a shorthand variable.`|
 
 -----------------------------------------------------------------------------------------------------------

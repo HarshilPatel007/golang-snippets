@@ -47,6 +47,18 @@
 				"language": "go",
 				"path": "./snippets/snippets.json"
 			}
+		],
+		"languages": [
+			{
+				"id": "go",
+				"extensions": [
+					".go"
+				],
+				"aliases": [
+					"go"
+				],
+				"filenames": []
+			}
 		]
 	}
 }
