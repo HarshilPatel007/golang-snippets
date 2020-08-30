@@ -1,0 +1,18 @@
+{
+	"go_template": {
+		"prefix": "go-template",
+		"body": [
+			"package ${1:package_name}\n",
+			"import (\n\t\"fmt\"\n\t${2:}\t\n)\n",
+			"func main() {\n\t${3:}\n}"
+		],
+		"description": "Basic go starter template."
+	},
+	"go_shorthand_variable": {
+		"prefix": "go-:",
+		"body": [
+			"${1:variable_name} := ${2:value}"
+		],
+		"description": "Create a shorthand variable."
+	}
+}

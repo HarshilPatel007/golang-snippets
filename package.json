@@ -1,0 +1,52 @@
+{
+	"name": "golang-snippets",
+	"displayName": "golang-snippets By Harshil Patel",
+	"description": "Boost your rapid development process for Go Language. (golang)",
+	"version": "0.0.1-dev",
+	"publisher": "Harshil Patel",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"author": {
+		"name": "Harshil Patel"
+	},
+	"homepage": "https://github.com/HarshilPatel007/",
+	"bugs": {
+		"url": "https://github.com/HarshilPatel007/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HarshilPatel007/"
+	},
+	"license": "SEE LICENSE IN LICENSE file",
+	"keywords": [
+		"go",
+		"golang",
+		"golang-snippets",
+		"Harshil",
+		"Harshil Patel",
+		"go language",
+		"snippet",
+		"snippets",
+		"golang Snippet",
+		"go language Snippets",
+		"go Snippet"
+	],
+	"categories": [
+		"Programming Languages",
+		"Snippets"
+	],
+	"icon": "golang-logo.png",
+	"galleryBanner": {
+		"color": "#dd5106",
+		"theme": "dark"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "go",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}
